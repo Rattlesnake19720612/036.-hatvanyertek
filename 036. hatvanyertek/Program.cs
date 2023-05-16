@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,3 +23,5 @@ namespace _036.hatvanyertek
         }
     }
 }
+
+/*Ez a C# nyelven írt program kiszámítja a megadott számot hatványozva. Az alap és a kitevő értékét a felhasználó adja meg a konzolról olvasott bemenetekkel. A Math.Pow() függvény segítségével számítjuk ki a hatványértéket, amelyet egy double típusú változóban tárolunk. Végül kiírjuk a hatvány értékét a konzolra.*/
